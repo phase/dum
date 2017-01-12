@@ -1,0 +1,7 @@
+name: dum
+version: 0.0
+description: Scum simulator in Dart
+dependencies:
+
+dev_dependencies:
+#  unittest: any
